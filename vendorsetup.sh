@@ -1,3 +1,3 @@
-add_lunch_combo lineage_star2qlte-eng
-add_lunch_combo lineage_star2qlte-userdebug
-add_lunch_combo lineage_star2qlte-user
+add_lunch_combo lineage_star2qltechn-eng
+add_lunch_combo lineage_star2qltechn-userdebug
+add_lunch_combo lineage_star2qltechn-user
